@@ -61,8 +61,8 @@
   
   .cover {
     position: absolute;
-    border-left: 250px solid transparent;
-    border-right: 250px solid transparent;
+    border-left: 240px solid transparent;
+    border-right: 240px solid transparent;
     border-top: 150px solid #fe3334;
     border-bottom: 140px solid transparent;
   
@@ -75,19 +75,19 @@
     position: absolute;
     padding: 1.5rem;
     line-height: 1.5rem;
-    right: 4px;
+    right: 5px;
     /*  */
     z-index: -1;
     background: white;
-    width: 490px;
+    width: 470px;
     height: 250px;
   
     transition: all .75s;
   }
   
   .letter {
-    border-left: 250px solid #ff989e;
-    border-right: 250px solid #ff989e;
+    border-left: 240px solid #ff989e;
+    border-right: 240px solid #ff989e;
     border-top: 150px solid transparent;
     border-bottom: 140px solid #ff858a;
   }
